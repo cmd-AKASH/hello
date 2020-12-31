@@ -1,0 +1,58 @@
+#welcome{
+  color: whitesmoke;
+  font-size: 100%;
+  background-color: indigo;
+  padding: 10px;
+  text-transform: full-width;
+  text-align: center;
+}
+
+#aside1 {
+  width: 20%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  color: white;
+  background-color: indigo;
+}
+
+#aside2 {
+  width: 20%;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  margin-left: 15px;
+  float: right;
+  color: white;
+  background-color: indigo;
+  text-align: center;
+}
+
+ #footer{
+  text-align: center;
+  padding: 3px;
+  background-color: indigo;
+  color: white;
+
+}
+#maincontent .bio{
+  background-color: indigo;
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20pt;
+  font-style: italic;
+  text-align: center;
+  padding: 40px 50px 40px 40px;
+  margin: 50px;
+}
+
+body{
+  background-color: #f5f5f5;
+}
+#catch{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20pt;
+  font-style: italic;
+  padding-top: 50px;
+  padding-left: 140px;
+
+}
